@@ -6,9 +6,6 @@
 
 *ps：起因是想想看看《丝之歌》究竟怎么样~*
 
-![项目Logo](image/main.png)
-
-
 
 
 ## 🚀 快速使用 Quick Start
